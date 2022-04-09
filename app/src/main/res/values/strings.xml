@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="welcome">Welcome</string>
+    <string name="generate">Generate</string>
+    <string name="pwdgenerator">to Password Generator</string>
+    <string name="pwdlength">Password length</string>
+    <string name="display_text">Your password:</string>
+</resources>
